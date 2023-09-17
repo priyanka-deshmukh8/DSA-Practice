@@ -1,5 +1,5 @@
 # leetcode
-- Visit My Leetcode Profile: https://leetcode.com/priyankadeshmukh_/
+- Visit My Leetcode Profile: https://leetcode.com/deshmukhpriyanka/
   
 Two Mantras of Problem Solving: 
 1. You Should know the reason of every why?? of a Problem.
